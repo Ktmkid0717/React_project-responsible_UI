@@ -26,6 +26,9 @@ li a {
   font-family: "Poppins", sans-serif;
   font-size: 12px;
 }
+.active-nav a {
+  color: rgba(30, 235, 179, 255);
+}
 
 .navbar-links {
   padding-left: 10px;

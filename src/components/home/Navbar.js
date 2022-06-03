@@ -22,8 +22,8 @@ const Navbar = () => {
             </div>
             <div className="dashboard">
               <div className="profile-logo"></div>
-              <li className="nav-link">
-                <NavLink to="/">Profile</NavLink>
+              <li className="nav-link active-nav">
+                <NavLink to="/">Profiles</NavLink>
               </li>
             </div>
             <div className="dashboard">
